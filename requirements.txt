@@ -1,0 +1,24 @@
+asyncqt
+dwf  # needed for Analog Discovery 2
+imageio
+imutils
+matplotlib
+numpy
+opencv-python
+pandas
+Pillow
+pyinstaller
+pypylon
+PySerial
+PySide2
+pytest
+pytest-pep8
+# pytest-platform-markers  # 0.1.0 not compatible with pytest 4+
+pytest-qt
+PyUSB
+pyvisa-py
+scikit-image
+scipy
+sphinx
+spinnaker_python # needed for FLIR BlackFly S Camera
+termcolor
